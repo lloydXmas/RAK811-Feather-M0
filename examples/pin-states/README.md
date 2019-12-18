@@ -11,7 +11,7 @@
 ```
 
 ## TTN Payload Decoder
-The first byte in the payload holds our pin states. Bits in the `pinstates` byte is masked off to retrieve corresponding values.
+The first byte in the payload holds our pin states. Bits in `pinstates` byte are masked off to retrieve corresponding values.
 
 ```javascript
 function Decoder(bytes, port) {
