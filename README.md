@@ -16,6 +16,7 @@ The M0 has 6 possible serial communication (SERCOM) interfaces. The shield has a
 The board has a UART breakout for updating the RAK811's firmware and bootloader as newer versions are released.
 To update the bootloader with the STM32CubeProgrammer, add solder to the jumper on the bottom of PCB. Remove solder to update firmware.
 
+![Feather-Shield](assets/Feather-M0-RAK811.jpg)
 
 
 
