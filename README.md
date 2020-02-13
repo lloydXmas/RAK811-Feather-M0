@@ -2,7 +2,7 @@
 
 This shield gives LoRaWAN connectivity to Adafruit's Feather M0 via the RAK811 module. Examples directory demonstrate usage/configuration with The Things Network.
 
-Advantage for using the RAK811:
+Advantages of using the RAK811:
 * Compared to other full-stack devices, the RAK811 is small in size and fits nicely on FeatherWing dimensions.
 * Using an LMIC library to run a full LoRaWAN stack on the M0 can be challenging when interrupts and delays are needed.
 * By removing the LoRaWAN stack from the M0, more flash memory is available.
